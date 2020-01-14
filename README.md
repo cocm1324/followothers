@@ -8,4 +8,5 @@ Follow Others | 남들거 따라해보기
 2. Source of code | 코드 출처
 - go/rest-api-tutorial: [Creating a Simple RESTful API in Go](https://youtu.be/W5b64DXeP0o)
 - go/restapi-traversy: [Golang REST API With Mux](https://youtu.be/SonwZ6MF5BE)
-- mean/ngauth: [Angular Authentication Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwg2RBz6UplKTGIXREj9dV0G)
+- javascript/meanauth: [Angular Authentication Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwg2RBz6UplKTGIXREj9dV0G)
+- javascript/redisnode[Build A Node.js & Redis App From Scratch](https://youtu.be/9S-mphgE5fA)
