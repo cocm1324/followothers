@@ -6,5 +6,5 @@ Follow Others | 남들거 따라해보기
 - To track my study by commit | 커밋한거 보고 얼마나 공부했나 스스로 알아보기
 
 2. Source of code | 코드 출처
-- go/rest-api-tutorial: (Creating a Simple RESTful API in Go)[https://youtu.be/W5b64DXeP0o]
-- go/restapi-traversy (Golang REST API With Mux)[https://youtu.be/SonwZ6MF5BE]
+- go/rest-api-tutorial: [Creating a Simple RESTful API in Go](https://youtu.be/W5b64DXeP0o)
+- go/restapi-traversy: [Golang REST API With Mux](https://youtu.be/SonwZ6MF5BE)
