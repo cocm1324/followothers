@@ -11,3 +11,4 @@ Follow Others | 남들거 따라해보기
 - javascript/meanauth: [Angular Authentication Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwg2RBz6UplKTGIXREj9dV0G)
 - javascript/redisnode: [Build A Node.js & Redis App From Scratch](https://youtu.be/9S-mphgE5fA)
 - javascript/react: [ReactJS Tutorial](https://youtu.be/QFaFIcGhPoM)
+- javascript/sess-auth: [Session Authentication in Express](https://youtu.be/OH6Z0dJ_Huk)
