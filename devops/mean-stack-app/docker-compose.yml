@@ -1,0 +1,19 @@
+version: '3.0'
+
+services:
+  angular:
+    build: angular-app
+    ports:
+      - "4200:4200"
+  
+  express:
+    build: express-server
+    ports:
+      - "3000:3000"
+    links:
+      - database
+
+  database:
+    image: mongo
+    ports: 
+      - "27017:27017"
