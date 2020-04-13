@@ -1,0 +1,16 @@
+{
+  "name": "sample-media-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jaeeun Cho <cocm1324@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "get-pixels": "^3.3.0"
+  }
+}
